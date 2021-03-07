@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ludovic",
+    "password": "ludoviclenid",
+    "database": "umdeny",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "ludovic",
+    "password": "ludoviclenid",
+    "database": "umdeny",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ludovic",
+    "password": "ludoviclenid",
+    "database": "umdeny",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
